@@ -1,6 +1,6 @@
 # Nash Equilibrium of First Price Auction with Different Pariticipation cost
 
-This paper studies equilibria of first-price auctions in independent private value
+- This paper studies equilibria of first-price auctions in independent private value
 environments with different participation costs. Two types of equilibria are
 identified: monotonic equilibria in which a bidder with a lower participation
 cost results in a lower cutoff for submitting a bid, and nonmonotonic equilibria
@@ -13,4 +13,4 @@ comparative static analysis and study the limiting properties of equilibria when
 the difference in bidders’ participation costs approaches zero.
 
 
-Currently in submission to Games and Economic Behavior
+- Currently in submission to Games and Economic Behavior
