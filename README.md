@@ -1,16 +1,17 @@
 # Nash Equilibrium of First Price Auction with Different Pariticipation cost
 
-- This paper studies equilibria of first-price auctions in independent private value
-environments with different participation costs. Two types of equilibria are
-identified: monotonic equilibria in which a bidder with a lower participation
-cost results in a lower cutoff for submitting a bid, and nonmonotonic equilibria
-in which a lower participation cost results in a higher cutoff. We show that
-there always exists a monotonic equilibrium, and further, that the monotonic
-equilibrium is unique for either concave distribution functions or strictly convex distribution functions with nonincreasing reverse hazard rates. There exist
-nonmonotonic equilibria when the distribution functions are strictly convex and
-the difference of the participation costs is sufficiently small. We also provide
-comparative static analysis and study the limiting properties of equilibria when
-the difference in bidders’ participation costs approaches zero.
+## 🔍 Key Findings
 
+- **Monotonic and Nonmonotonic Equilibria**:
+  - **Monotonic Equilibria**: 📉 Where a bidder with a lower participation cost submits a lower bid.
+  - **Nonmonotonic Equilibria**: 📈 Where a lower participation cost leads to a higher bid cutoff.
 
-- Currently in submission to Games and Economic Behavior
+- **Existence and Uniqueness**: 💡 It is proven that a monotonic equilibrium always exists. Furthermore, this equilibrium is unique under either concave distribution functions or strictly convex distribution functions with nonincreasing reverse hazard rates.
+
+- **Conditions for Nonmonotonic Equilibria**: 📊 Nonmonotonic equilibria exist when distribution functions are strictly convex and the difference in participation costs is sufficiently small.
+
+- **Comparative Static Analysis**: 📊 The paper provides a comparative static analysis and explores the limiting properties of equilibria as the difference in bidders' participation costs approaches zero.
+
+## 📨 Submission Status
+
+The manuscript is currently under submission to *Games and Economic Behavior*.
